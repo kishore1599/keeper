@@ -1,0 +1,52 @@
+html {
+  font-family: "Montserrat", sans-serif;
+}
+body {
+  padding: 0 16px;
+  font-family: "Montserrat";
+  
+}
+h5,h6{
+  color: #4a148c;
+}
+p{
+  color: #8f8f8f;
+}
+.fas{
+  margin: 20px 10px;
+}
+#card{
+  padding: 100px;
+  height: auto;
+}
+
+.card-column{
+  padding: 1% 1.5%;
+  right: 10px;
+  
+}
+.card-text{
+  text-align: center;
+  text-emphasis: bold;
+}
+
+footer {
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;
+  
+}
+footer p {
+  color: #ccc
+}
+.btn{
+  width: 100px;
+  right:500px;
+  margin-left: auto;
+  display: flex;
+  justify-content: center;
+}
+.para{
+  color: black;
+}
